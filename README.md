@@ -1,13 +1,3 @@
-# Hi, I'm Manoj 👋
-
-## 🚀 Aspiring DevOps Engineer
-
-I am an Electronics and Communication Engineering graduate passionate about Cloud Computing and DevOps.
-
-I enjoy building scalable cloud applications and automation solutions using AWS and Python.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Scripting
@@ -36,55 +26,96 @@ I enjoy building scalable cloud applications and automation solutions using AWS 
 
 ---
 
-## 📌 Projects
-### 🛒 Kartify — E-Commerce Application
-A full-stack e-commerce application with product management, user interactions, and database integration.
+## 🚀 Projects
 
-**Tech:** Docker • MongoDB • JavaScript • Node.js
+### 🛒 Kartify — E-Commerce Application Deployment
 
-### 🏦 JavaBank — Banking Application
-A Java-based banking application designed to implement core banking operations and application logic.
+> DevOps deployment project focused on containerizing and deploying an existing e-commerce application.
 
-**Tech:** Java • SQL • JDBC
+- 🐳 Containerized the application using **Docker**
+- ⚙️ Created and managed Docker containers for deployment
+- 🔧 Configured application environments for containerized deployment
+- 🚀 Deployed the application using DevOps practices
 
-### 📝 Django Notes App
-A web-based notes management application built with Django, allowing users to create and manage their notes.
-
-**Tech:** Python • Django • HTML • CSS • SQLite
-
-### ☁️ Cloud Attendance System
-Serverless attendance management system using AWS Lambda, API Gateway, and DynamoDB.
-
-### 🌦 Serverless Weather Application
-Built using Amazon S3, Lambda, API Gateway, and external weather APIs.
-
-### 🖼 Automated Image Compression System
-Event-driven image compression pipeline using S3 triggers and Lambda.
-
-### 📊 AWS Monitoring & Alert System
-CloudWatch monitoring with SNS alerts and Python automation.
-
-### 🕶 AR Smart Glasses
-ESP32-based wearable prototype for health monitoring.
+**Tech:** Docker • Linux • Git • GitHub
 
 ---
 
-## 🌱 Currently Learning
+### 🏦 JavaBank — Banking Application Deployment
 
-- Docker
-- Jenkins
-- Terraform
-- Kubernetes
-- CI/CD Pipelines
+> DevOps deployment project focused on containerizing and deploying an existing Java banking application.
+
+- 🐳 Containerized the Java application using **Docker**
+- ⚙️ Built and managed Docker images and containers
+- 🔧 Configured the application environment for deployment
+- 🚀 Deployed the application in a containerized environment
+
+**Tech:** Docker • Linux • Git • GitHub • Java
 
 ---
 
-## 📫 Connect With Me
+### 📝 Django Notes App — Containerized Deployment
 
-Email: manojr3690@gmail.com
+> DevOps deployment project focused on containerizing and deploying an existing Django application.
 
-LinkedIn:
-https://www.linkedin.com/in/manoj-r-1a92b6225/
+- 🐳 Containerized the Django application using **Docker**
+- ⚙️ Configured the application and runtime environment
+- 🔧 Managed Docker images and containers
+- 🚀 Deployed the application using containerization
 
-GitHub:
-https://github.com/Manoj2004r
+**Tech:** Docker • Linux • Git • GitHub • Django
+
+---
+
+### ☁️ AWS Image Compression System
+
+> Serverless image processing solution built using AWS services.
+
+- ☁️ Used **Amazon S3** for image storage
+- ⚡ Used **AWS Lambda** for serverless image processing
+- 🔐 Configured **IAM** permissions
+- 🔄 Automated image processing through S3 events
+
+**Tech:** AWS S3 • AWS Lambda • IAM
+
+---
+
+### 🌦️ AWS Weather Application
+
+> Serverless weather application deployed using AWS cloud services.
+
+- ☁️ Hosted the frontend using **Amazon S3**
+- ⚡ Used **AWS Lambda** for backend processing
+- 🌐 Configured **Amazon API Gateway**
+- 🔐 Managed permissions using **IAM**
+
+**Tech:** AWS S3 • AWS Lambda • API Gateway • IAM
+
+---
+
+### 📋 Cloud-Based Attendance System
+
+> Cloud-based attendance system deployed using serverless AWS services.
+
+- ⚡ Used **AWS Lambda** for backend processing
+- 🌐 Configured **API Gateway** for API communication
+- ☁️ Used **Amazon S3** for storage
+- 📩 Configured **Amazon SNS** for notifications
+- 🔐 Managed access using **IAM**
+
+**Tech:** AWS Lambda • API Gateway • S3 • SNS • IAM
+
+---
+
+## 📚 DevOps Skills
+
+- ☁️ **Cloud:** AWS
+- 🐧 **Operating Systems:** Linux
+- 🐳 **Containerization:** Docker
+- ☸️ **Orchestration:** Kubernetes
+- 🔄 **CI/CD:** Jenkins
+- 🏗️ **Infrastructure as Code:** Terraform
+- ⚙️ **Configuration Management:** Ansible
+- 📊 **Monitoring:** Prometheus • Grafana
+- 🔧 **Version Control:** Git • GitHub
+- 🐍 **Scripting:** Python • Bash
