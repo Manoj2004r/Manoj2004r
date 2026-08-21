@@ -37,6 +37,20 @@ I enjoy building scalable cloud applications and automation solutions using AWS 
 ---
 
 ## 📌 Projects
+### 🛒 Kartify — E-Commerce Application
+A full-stack e-commerce application with product management, user interactions, and database integration.
+
+**Tech:** Docker • MongoDB • JavaScript • Node.js
+
+### 🏦 JavaBank — Banking Application
+A Java-based banking application designed to implement core banking operations and application logic.
+
+**Tech:** Java • SQL • JDBC
+
+### 📝 Django Notes App
+A web-based notes management application built with Django, allowing users to create and manage their notes.
+
+**Tech:** Python • Django • HTML • CSS • SQLite
 
 ### ☁️ Cloud Attendance System
 Serverless attendance management system using AWS Lambda, API Gateway, and DynamoDB.
