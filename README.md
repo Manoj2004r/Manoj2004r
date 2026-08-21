@@ -8,18 +8,31 @@ I enjoy building scalable cloud applications and automation solutions using AWS 
 
 ---
 
-## 🛠 Skills
+## 🛠️ Tech Stack
 
-- AWS
-- Linux
-- Python
-- Shell Scripting
-- Git & GitHub
-- API Gateway
-- AWS Lambda
-- Amazon S3
-- DynamoDB
-- CloudWatch
+### Languages & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,ansible,git,github" />
+</p>
+
+### Monitoring & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+</p>
 
 ---
 
