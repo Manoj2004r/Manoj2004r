@@ -146,7 +146,7 @@ A serverless attendance application using AWS services for API processing, stora
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn profile URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/manoj-r-369o
 - 🐙 GitHub: https://github.com/Manoj2004r
 - 📧 Email: manojr3690@gmail.com
 
