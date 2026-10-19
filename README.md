@@ -37,7 +37,7 @@ I enjoy building and deploying applications, automating infrastructure with Terr
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database technologies" />
 </p>
 
 ## 🚀 Featured Projects
