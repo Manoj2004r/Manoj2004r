@@ -55,7 +55,7 @@ An e-commerce deployment project using AWS infrastructure, containerization, and
 
 **Technologies:** AWS, Terraform, Docker, Jenkins, ECS, Fargate, ECR, S3, ALB, MongoDB
 
-🔗 **Repository:** [Add Kartify repository URL]
+🔗 **Repository:** https://github.com/Manoj2004r/kartify-e-commerce-App.git
 
 ---
 
@@ -70,7 +70,7 @@ A banking application used to practise containerization, application networking,
 
 **Technologies:** Java, Docker, Docker Compose, Nginx, Linux
 
-🔗 **Repository:** [Add JavaBank repository URL]
+🔗 **Repository:** https://github.com/Manoj2004r/Bank-Application.git
 
 ---
 
@@ -84,7 +84,7 @@ A Django application used to practise application containerization and deploymen
 
 **Technologies:** Python, Django, Docker, Linux
 
-🔗 **Repository:** [Add Django Notes repository URL]
+🔗 **Repository:** https://github.com/Manoj2004r/django-notes-app.git
 
 ---
 
@@ -99,7 +99,7 @@ A serverless image-processing project using AWS storage and event-driven computi
 
 **Technologies:** AWS S3, Lambda, IAM
 
-🔗 **Repository:** [Add Image Compression repository URL]
+🔗 **Repository:** https://github.com/Manoj2004r/Image-Compression-system.git
 
 ---
 
@@ -114,7 +114,7 @@ A serverless weather application built using AWS services for frontend hosting a
 
 **Technologies:** AWS S3, Lambda, API Gateway, IAM
 
-🔗 **Repository:** [Add Weather App repository URL]
+🔗 **Repository:** https://github.com/Manoj2004r/Weather-App.git
 
 ---
 
@@ -130,7 +130,7 @@ A serverless attendance application using AWS services for API processing, stora
 
 **Technologies:** AWS Lambda, API Gateway, S3, SNS, IAM
 
-🔗 **Repository:** [Add Attendance System repository URL]
+🔗 **Repository:** https://github.com/Manoj2004r/Attendance-Management-System.git
 
 ## 📚 Core Competencies
 
